@@ -1,34 +1,34 @@
-# API Week
+# Testing week
 
-## Contents
+## Menu
 
-- [Learning outcomes](./learning-outcomes.md)
-- [Project](./project.md)
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project)
 - [Resources](./resources)
 
 ## Schedule
+
 - [Default schedule](../schedules/default.md)
 
 ### Day 1
 
-- [Introductory workshop](https://github.com/foundersandcoders/api-workshop) - API basics, HTTP, XMLHttp requests, request-response pattern: 1hr 30mins
+- [Intro to NPM](https://github.com/foundersandcoders/npm-introduction): 30mins
 
-- [XHR workshop](https://github.com/foundersandcoders/xhr-workshop): 1hr
+- [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro): 30mins
 
-- [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests: 2hrs
+- [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape): 2hrs
+
+- Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong): 2hrs
 
 ### Day 2
 
-- [Flexbox Froggy](http://flexboxfroggy.com/): 30mins
+- Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge): 1hr
 
-- [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop): 1hr
+- [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile: : 2hrs
 
-- [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design): 1hr 30mins
-
-- [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js): 3hrs
-
-Note: no research scheduled for this week
+- [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s): 30mins
 
 ### Day 3
 
-- [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser): 1hr
+- Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights): 1hr
