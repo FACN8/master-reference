@@ -23,14 +23,16 @@
 
 ### Day 2
 
+- [Introduction to recursion](https://github.com/WebAhead/mc-recursion): 1hr
+
 - Morning challenge - [Traffic Lights](https://github.com/foundersandcoders/morning-challenge-traffic-lights): 1hr 15mins
 
 - [Pure functions workshop](https://github.com/FACN8/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:: 2hrs
 
-- [Research](./research-afternoon.md): 3hr 30mins
+- [Research](./research-afternoon.md): 3hr
 
-- [Introduce Project](./project): 15mins
 
 ### Day 3
 
 - [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser): 1hr 30mins
+- [Introduce Project](./project): 15mins
