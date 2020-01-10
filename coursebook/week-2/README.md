@@ -20,7 +20,7 @@
 ### DAY 2
 
 - [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop): 1hr 30mins
-- [Software Architecture Workshop](https://github.com/Karyum/Workshop-Software-Architecture-Design/blob/master/README.md): 1hr 30mins
+- [Software Architecture Workshop](https://github.com/WebAhead/Workshop-Software-Architecture-Design): 1hr 30mins
 - [Intro to NPM](https://github.com/foundersandcoders/npm-introduction): 30mins
 - [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js): 3hr 30mins
 
