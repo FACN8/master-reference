@@ -19,8 +19,6 @@
 
 - Roman numerals TDD code-along - [final solution](https://github.com/FACN8/roman-numeral-tdd-codealong): 2hrs
 
-- [Intro to recursion](https://github.com/WebAhead/mc-recursion)
-
 ### Day 2
 
 - [Introduction to recursion](https://github.com/WebAhead/mc-recursion): 1hr
