@@ -19,7 +19,7 @@
 
 - Roman numerals TDD code-along - [final solution](https://github.com/FACN8/roman-numeral-tdd-codealong): 2hrs
 
-- Introduction to recursion
+- [Intro to recursion](https://github.com/WebAhead/mc-recursion)
 
 ### Day 2
 
