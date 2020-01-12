@@ -23,7 +23,7 @@
 
 - [Introduction to recursion](https://github.com/WebAhead/mc-recursion): 1hr
 
-- Morning challenge - [Traffic Lights](https://github.com/foundersandcoders/morning-challenge-traffic-lights): 1hr 15mins
+- Morning challenge - [Traffic Lights](https://github.com/FACN8/morning-challenge-traffic-lights): 1hr 15mins
 
 - [Pure functions workshop](https://github.com/FACN8/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:: 2hrs
 
