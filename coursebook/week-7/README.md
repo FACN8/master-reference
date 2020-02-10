@@ -19,7 +19,7 @@
 
 ### Day 2
 
-- Morning Challenge - [Promises](https://github.com/foundersandcoders/mc-promise-me-this): 1hr
+- Morning Challenge - [Promises](https://github.com/WebAhead/mc-promise-me-this): 1hr
 - Workshop 3 - Handlebars:
   - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
   - [Templating](https://github.com/m4v15/templating/)
