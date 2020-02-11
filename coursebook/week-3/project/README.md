@@ -15,14 +15,7 @@ This project is split into three parts:
   * Read through `skeleton/logic.js`. Don't worry if it does not all makes sense at first.
   * Set up a new repo for your project this week.
   * Copy and commit the files inside skeleton folder into your repository. **warning** only one person in your team should do this, then everyone else can pull the same repo.
-  * `npm init`, then install `jest` as a devDependency.
-  * Remember to add test scripts to run Jest, eg:
-  ```json
-  "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch"
-  }
-  ```
+  * `npm init`, then install Tape and anything else you want to test with.
 
 ## The project
 
