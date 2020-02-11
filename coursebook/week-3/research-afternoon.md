@@ -10,8 +10,9 @@
 
 - What is test coverage?
 - Why is test coverage useful?
-- Use Jest to calculate your code coverage for the TDD workshop.
-- How would you use code-coverage to improve your testing?
+- What are Istanbul and nyc?
+- How would you use them to improve your testing?
+- Use Istanbul/nyc to calculate your code coverage for the TDD workshop.
 
 ### Asynchronous JavaScript
 

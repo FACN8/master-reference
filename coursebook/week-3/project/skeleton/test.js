@@ -1,7 +1,7 @@
+var test = require('tape');
 var logic = require('./logic');
 
-describe('Example test', function() {
-  it('should do something', function() {
-    expect(1).toBe(1);
-  });
+test('Example test', function(t) {
+  t.pass();
+  t.end();
 });
