@@ -15,6 +15,7 @@ The first eight weeks will provide you with the necessary building blocks for cr
 * [Week 6](week-6/README.md) - PostgreSQL
 * [Week 7](week-7/README.md) - Authentication
 * [Week 8](week-8/README.md) - Express
+* [Week 9](https://github.com/foundersandcoders/react-week) - React
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
 + [Weeks 10-12](./weeks-10-12) - self-selected project
